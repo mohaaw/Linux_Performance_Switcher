@@ -4,7 +4,7 @@ A simple Python GUI application for Linux systems with NVIDIA GPUs to easily swi
 
 This tool is designed for gamers, AI/ML developers, and power users who need to quickly toggle between a power-saving state and a maximum-performance state without complex terminal commands.
 
-![App Screenshot](https://i.imgur.com/vHqB3qf.png)
+
 
 ---
 
